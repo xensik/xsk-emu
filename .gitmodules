@@ -1,0 +1,10 @@
+[submodule "deps/libtommath"]
+	path = deps/libtommath
+	url = https://github.com/libtom/libtommath
+[submodule "deps/libtomcrypt"]
+	path = deps/libtomcrypt
+	url = https://github.com/libtom/libtomcrypt
+[submodule "deps/nlohmannjson"]
+	path = deps/nlohmannjson
+	url = https://github.com/nlohmann/json
+	branch = master
